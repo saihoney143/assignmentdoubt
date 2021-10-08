@@ -1,0 +1,55 @@
+.initial-para {
+  font-family: 'Roboto';
+  font-size: 20px;
+  padding: 10px;
+  background-color: goldenrod;
+  color: white;
+  height: 40px;
+  width: 40px;
+  border-radius: 30px;
+  align-self: center;
+  text-align: center;
+}
+.head2 {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: white;
+}
+.para2 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 300;
+  color: white;
+}
+.d-image {
+  width: 30%;
+}
+.delete-button {
+  background-color: transparent;
+  color: white;
+  border-width: 0px;
+}
+.pass-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  margin-left: 10px;
+}
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  margin: 5px;
+  border: 1px solid lightblue;
+  padding: 10px;
+  width: 40%;
+}
+
+.star {
+  height: 10px;
+  width: 80px;
+}
